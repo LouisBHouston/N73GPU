@@ -1,5 +1,9 @@
 #pragma once
 
+#ifndef JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED
+#define JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED 1
+#endif
+
 #include <juce_audio_processors/juce_audio_processors.h>
 #include <juce_dsp/juce_dsp.h>
 #include <array>
